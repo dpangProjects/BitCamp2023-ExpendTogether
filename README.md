@@ -1,5 +1,4 @@
-# README
-#Inspiration
+# Inspiration
 Banking apps have a feature where you can only keep track of your income and spending. You can only see another person's income or spending if you have someone under your name for your account. If you wanted to see how your family or friends are doing financially it would be difficult to do so since chances are almost everyone will have different banks from each other. This is where our app comes in so that your group of close friends and families can keep track of how everyone is doing financially.
 
 # What it does
